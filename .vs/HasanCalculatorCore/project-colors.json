@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5258c09a-ec2a-4631-ac2c-27fba29683ce": {
+      "ProjectGuid": "5258c09a-ec2a-4631-ac2c-27fba29683ce",
+      "DisplayName": "HasanCalculatorCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
